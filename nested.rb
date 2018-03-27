@@ -88,7 +88,6 @@ programmer_hash[:yukihiro_matsumoto] = {
 }
 puts programmer_hash
 end
-end
 
 def changing_alan
 	programmer_hash =
